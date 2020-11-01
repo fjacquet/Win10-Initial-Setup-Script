@@ -260,5 +260,5 @@ DisableIEEnhancedSecurity     # EnableIEEnhancedSecurity
 # UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
-WaitForKey
-Restart
+# WaitForKey
+# Restart
